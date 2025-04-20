@@ -1,3 +1,3 @@
 # Demo
 First repo
-For learning purposes
+For learning purpose
